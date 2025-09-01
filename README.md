@@ -60,13 +60,13 @@ Output (1 unit) + Sigmoid
 - Basic Python knowledge
 
 ### Running in Google Colab
-1. **Open the Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/srizoni-maity/Cats-vs-Dogs-Image-Classifier/blob/main/model.ipynb)
+1. **Open the Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Baishakhi-Sing/Cats-vs-Dogs-Image-Classifier/blob/main/model.ipynb)
 2. **Run all cells**: Execute the entire notebook sequentially
 3. **View results**: Watch real-time training and accuracy graphs
 
 ##  Performance
 
-![Training Progress](https://github.com/srizoni-maity/Cats-vs-Dogs-Image-Classifier/blob/main/graph.jpeg)
+![Training Progress](https://github.com/Baishakhi-Sing/Cats-vs-Dogs-Image-Classifier/blob/main/graph.jpeg)
 
 ##  Skills Demonstrated
 
@@ -79,8 +79,8 @@ Output (1 unit) + Sigmoid
 ##  Author
 
 **Srizoni Maity**  
-- GitHub: [@srizoni-maity](https://github.com/srizoni-maity)
-- LinkedIn: [https://www.linkedin.com/in/srizoni-maity-012235356]
+- GitHub: [@Baishakhi-Sing](https://github.com/Baishakhi-Sing)
+- LinkedIn: [https://www.linkedin.com/in/baishakhi-sing-29a71a355]
 
 ##  Acknowledgments
 Dataset provided by Google ML Education
